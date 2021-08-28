@@ -1,7 +1,7 @@
 ## git分支开发及合并流程
 
 ### 分支开发
-1. 拉取项目代码：git clone git@gitee.com:he_123_admin/metas.git
+1. 拉取项目代码：git clone git@github.com:THEGREATHXY/golangCrawl.git
 
 2. 本地建立分支：git checkout -b branch_name
 
